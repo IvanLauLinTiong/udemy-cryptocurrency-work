@@ -16,4 +16,4 @@ These endpoints are updated every 5 minutes and are restricted to no more than 3
 2. A Real-Time Price Alert App
 3. A Top 100 Cryptocurrency Ranking App
 4. Predict The Future Values of the Top 100 Crytocurrencies
-5  Store Real-Time of 1000 Cryptocurrencies' Information in Excel Using Python
+5. Store Real-Time of 1000 Cryptocurrencies' Information in Excel Using Python
