@@ -12,7 +12,7 @@ CoinMarketCap API are publicly accesible as url endpoints. The API endpoints we 
 These endpoints are updated every 5 minutes and are restricted to no more than 30 requests per minute. Click [here](https://coinmarketcap.com/api/) for respective API usage details.
 
 # Projects
-1. A Cryprocurrency Portfolio App
+1. A Cryptocurrency Portfolio App
 2. A Real-Time Price Alert App
 3. A Top 100 Cryptocurrency Ranking App
 4. Predict The Future Values of the Top 100 Crytocurrencies
