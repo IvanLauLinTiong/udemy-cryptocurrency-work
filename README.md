@@ -13,7 +13,7 @@ These endpoints are updated every 5 minutes and are restricted to no more than 3
 
 # Projects
 1. [A Cryptocurrency Portfolio App](https://github.com/IvanLauLinTiong/udemy-cryptocurrency-work/tree/master/projects#a-cryptocurrency-portfolio-app)
-2. A Real-Time Price Alert App
-3. A Top 100 Cryptocurrency Ranking App
-4. Predict The Future Values of the Top 100 Crytocurrencies
-5. Store Real-Time of 1000 Cryptocurrencies' Information in Excel Using Python
+2. [A Real-Time Price Alert App](https://github.com/IvanLauLinTiong/udemy-cryptocurrency-work/tree/master/projects#a-real-time-price-alert-app)
+3. [A Top 100 Cryptocurrency Ranking App](https://github.com/IvanLauLinTiong/udemy-cryptocurrency-work/tree/master/projects#a-top-100-cryptocurrency-ranking-app)
+4. [Predict The Future Values of the Top 100 Crytocurrencies](https://github.com/IvanLauLinTiong/udemy-cryptocurrency-work/tree/master/projects#predict-the-future-values-of-the-top-100-cryptocurrencies)
+5. [Store Real-Time of 1000 Cryptocurrencies' Information in Excel Using Python](https://github.com/IvanLauLinTiong/udemy-cryptocurrency-work/tree/master/projects#store-real-time-of-1000-cryptocurrencies-information-in-excel-using-python)
